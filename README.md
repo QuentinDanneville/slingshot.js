@@ -1,7 +1,6 @@
 # Slingshot.js
 
 Work in progress
-A boiler plate README
 
 A modern smooth & fluid transition between your website's pages.
 
@@ -15,8 +14,6 @@ Follow these steps to get started:
 
 1. [Install](#install)
 2. [Import](#import)
-3. [Call](#call)
-4. [Review Options](#options)
 
 ### Install
 
