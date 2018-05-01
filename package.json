@@ -1,0 +1,27 @@
+{
+  "name": "slingshot.js",
+  "version": "1.0.0",
+  "description": "Modern smooth & fluid transition between your website's pages",
+  "main": "dist/slingshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://QuentinDanneville@github.com/QuentinDanneville/slingshot.js.git"
+  },
+  "keywords": [
+    "smooth",
+    "transition"
+  ],
+  "author": "Quentin Danneville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuentinDanneville/slingshot.js/issues"
+  },
+  "homepage": "https://github.com/QuentinDanneville/slingshot.js#readme",
+  "devDependencies": {
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.1.2"
+  }
+}
